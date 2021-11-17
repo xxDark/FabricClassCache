@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "fabricclasscache",
+  "version": "${version}",
+  "name": "FabricClassCache Mod",
+  "description": "",
+  "authors": [
+    "xDark"
+  ],
+  "contact": {
+    "sources": "https://github.com/xxDark/FabricClassCache"
+  },
+  "license": "MIT",
+  "_icon": "assets/fabricclasscache/icon.png",
+  "environment": "client",
+  "entrypoints": {},
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.12.25",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  }
+}
