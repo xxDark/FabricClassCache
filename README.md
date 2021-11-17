@@ -14,6 +14,18 @@ Requirements:
 
 ---
 
+How to:
+=============
+
+- Install patched Fabric loader
+- Edit version .json file to prevent the launcher from downloading loader, or... create new profile
+- Drop mod inside mods directory
+- Start the client for the first time, join singleplayer, jump, walk, etc
+- Close the game
+- The game should now start faster!
+
+---
+
 Building:
 ==========
 
