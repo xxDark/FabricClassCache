@@ -30,6 +30,6 @@ Building:
 ==========
 
 Install JDK 16, if not already  
-Run `./gradlew build`, get files from `buid/libs`
+Run `./gradlew build`, get files from `build/libs`
 
 ---
